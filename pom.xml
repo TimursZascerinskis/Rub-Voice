@@ -79,7 +79,7 @@
           <artifactId>javafx-maven-plugin</artifactId>
           <version>0.0.8</version>
           <configuration>
-            <mainClass>com.voiceapp.rubi_voice.Main</mainClass>
+            <mainClass>com.voiceapp.App</mainClass>
           </configuration>
         </plugin>
         <plugin>

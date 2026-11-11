@@ -1,9 +1,6 @@
-package main.javacom.voiceapp;
+package com.voiceapp;
 
-/**
- * Hello world!
- *
- */
+ 
 public class App 
 {
     public static void main( String[] args )
@@ -11,3 +8,4 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+//mvn javafx:run
